@@ -1,7 +1,7 @@
 <!-- ─────────── 🎉 헤더 배너 ─────────── -->
 <p align="center" style="margin:0;">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=002968&height=240&fontColor=ffffff&fontSize=46&fontAlignY=35&text=안녕하세요%20MJS%20개발님%20NOVA입니다!"
+    src="https://capsule-render.vercel.app/api?type=waving&color=002968&height=240&fontColor=ffffff&fontSize=46&fontAlignY=35&text=안녕하세요%20MJS%20개발팀%20NOVA입니다!"
     alt="안녕하세요 MJS Develop Team NOVA입니다!"
     width="100%"
   />
