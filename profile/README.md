@@ -1,8 +1,8 @@
 <!-- ─────────── 🎉 헤더 배너 ─────────── -->
 <p align="center" style="margin:0;">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=002968&height=240&fontColor=ffffff&fontSize=46&fontAlignY=35&text=안녕하세요%20MJS%20개발팀%20NOVA입니다!"
-    alt="안녕하세요 MJS Develop Team NOVA입니다!"
+    src="https://capsule-render.vercel.app/api?type=waving&color=002968&height=240&fontColor=ffffff&fontSize=46&fontAlignY=35&text=안녕하세요%20Thingo%20개발팀%20NOVA입니다!"
+    alt="안녕하세요 Thingo Develop Team NOVA입니다!"
     width="100%"
   />
 </p>
@@ -23,7 +23,7 @@
 ## 목차
 <!-- ✔️ Markdown 리스트 대신 순수 HTML + <br> -->
 <p align="left">
-  <a href="#mjs-dev-wiki">MJS Dev Wiki</a><br>
+  <a href="#Thingo-dev-wiki">Thingo Dev Wiki</a><br>
   <a href="#목적">목적</a><br>
   <a href="#카테고리-예시">카테고리 예시</a><br>
   <a href="#기여-방법">기여 방법</a><br>
@@ -33,9 +33,9 @@
 
 <br>
 
-안녕하세요 MJS 개발팀 NOVA입니다! 
+안녕하세요 Thingo 개발팀 NOVA입니다! 
 
-# MJS Dev Wiki
+# Thingo Dev Wiki
 <!-- 제목 위·아래 여백 확대 & 가독성 좋은 문단 폭 -->
 <div style="max-width:900px;">
 
